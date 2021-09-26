@@ -23,13 +23,13 @@ the machine failing.
 
 ### Necessary Hardware List
 
-A. Arduino UNO R3 
-B. Sensors (4 sensors)
-  1. Ultrasonic sensor (2 pieces)
-  2. PIR Motion sensor (1 pieces)
-  3. Temperature sensor (1 pieces)
-C. Actuators (3 actuators)
-  1. Servo motor (2 pieces)
-  2. LED light (3 pieces)
-D. Relay (2 pieces)
-E. Breadboard
+* A. Arduino UNO R3 
+* B. Sensors (4 sensors)
+  * 1. Ultrasonic sensor (2 pieces)
+  * 2. PIR Motion sensor (1 pieces)
+  * 3. Temperature sensor (1 pieces)
+* C. Actuators (3 actuators)
+  * 1. Servo motor (2 pieces)
+  * 2. LED light (3 pieces)
+* D. Relay (2 pieces)
+* E. Breadboard
